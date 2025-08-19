@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-family: sans-serif;
+  padding: 2rem;
+  text-align: center;
+}
+
+.game-container {
+  margin-top: 1rem;
+}
+
+input {
+  padding: 0.5rem;
+  font-size: 1rem;
+}
