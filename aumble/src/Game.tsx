@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import './Game.css';
 
 function Game() {
   const [guess, setGuess] = useState('');
@@ -15,7 +16,20 @@ function Game() {
         value={guess} 
         onChange={handleChange} 
       />
-      <p>Your guess: {guess}</p>
+      <table>
+  <thead>
+    <tr>
+      <th>Guess #</th>
+      <th>Name</th>
+      <th>Instrument</th>
+      <th>Year</th>
+      <th>Role</th>
+    </tr>
+  </thead>
+  <tbody>
+    {/* Rows will go here later */}
+  </tbody>
+</table>
     </div>
   );
 };
