@@ -10,11 +10,11 @@ function Game() {
   const [allMembers] = useState(members);
 
   const secretMember: Guess = {
-    name: "Carter Williams",
-    section: "Mellophone",
-    year: "4",
-    role: "Section Leader",
-    auburnID: "cjw0113",
+    name: "Jonah Blackwood",
+    section: "Trumpet",
+    year: "2",
+    role: "Member",
+    auburnID: "jgb0060",
   };
 
   // not using backend for now
