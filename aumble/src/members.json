@@ -1,0 +1,2676 @@
+[
+  {
+    "auburnID": "aam0118",
+    "name": "Aria McKay",
+    "section": "Trombone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "abg0067",
+    "name": "Alex Galloway",
+    "section": "Clarinet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "aca0103",
+    "name": "Brie Arnett",
+    "section": "Piccolo",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "acc0208",
+    "name": "Ashton Cushman",
+    "section": "Baritone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ack0084",
+    "name": "Austin Kane",
+    "section": "Battery",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ack0101",
+    "name": "Austin Kintz-Roberts",
+    "section": "Trumpet",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "acl0113",
+    "name": "Ansley Lewis",
+    "section": "Trumpet",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "acs0260",
+    "name": "Ava Slocum",
+    "section": "Danceline",
+    "year": "3",
+    "role": "Captain"
+  },
+  {
+    "auburnID": "adf0049",
+    "name": "Avery Flynt",
+    "section": "Majorette",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "adl0075",
+    "name": "Andrew Lewis",
+    "section": "Trumpet",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "aea0071",
+    "name": "Ansley Abernathy",
+    "section": "Piccolo",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "aeb0216",
+    "name": "Alex Burke",
+    "section": "Flagline",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "aec0128",
+    "name": "Amelia Chavez",
+    "section": "Alto Saxophone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "aec0164",
+    "name": "Alex Clenney",
+    "section": "Mellophone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "aec0169",
+    "name": "Ainsley Collier",
+    "section": "Clarinet",
+    "year": "3",
+    "role": "RAT Leader"
+  },
+  {
+    "auburnID": "aeh0161",
+    "name": "Audrey Headrick",
+    "section": "Piccolo",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "aeh0178",
+    "name": "Alec Hudson",
+    "section": "Battery",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "aej0090",
+    "name": "Avery Jesionowski",
+    "section": "Danceline",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "aew0119",
+    "name": "Archer Williamson",
+    "section": "Mellophone",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "agn0032",
+    "name": "Abby Nave",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ago0018",
+    "name": "Ashley Ortel",
+    "section": "Clarinet",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ajb0257",
+    "name": "Amelia Beland",
+    "section": "Clarinet",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ajg0141",
+    "name": "Lela Gentry",
+    "section": "Alto Saxophone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ajh0199",
+    "name": "Anthony Hathcock",
+    "section": "Trombone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ajo0033",
+    "name": "Austin O'Connor",
+    "section": "Trumpet",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "akh0129",
+    "name": "Andrew Hamner",
+    "section": "Alto Saxophone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "alf0075",
+    "name": "Avery Fox",
+    "section": "Majorette",
+    "year": "4",
+    "role": "Captain"
+  },
+  {
+    "auburnID": "alf0093",
+    "name": "Ava Fucci",
+    "section": "Danceline",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "amc0281",
+    "name": "Aaron Chartrand",
+    "section": "Trombone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "amf0109",
+    "name": "Ariel Faulise",
+    "section": "Battery",
+    "year": "4",
+    "role": "Section Leader"
+  },
+  {
+    "auburnID": "aml0156",
+    "name": "Abby Ledbetter",
+    "section": "Flagline",
+    "year": "3",
+    "role": "Co-Captain"
+  },
+  {
+    "auburnID": "amm0348",
+    "name": "Lexie Mapes",
+    "section": "Flagline",
+    "year": "3",
+    "role": "Captain"
+  },
+  {
+    "auburnID": "amv0044",
+    "name": "Mitchell VanCleave",
+    "section": "Battery",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "anh0144",
+    "name": "Aiden Heisey",
+    "section": "Piccolo",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "arf0054",
+    "name": "Ansleigh Falkenberry",
+    "section": "Clarinet",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "arf0073",
+    "name": "Aldyn Falkenberry",
+    "section": "Piccolo",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ase0031",
+    "name": "Aidan Elder",
+    "section": "Trumpet",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ask0086",
+    "name": "Allen Kim",
+    "section": "Alto Saxophone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ast0054",
+    "name": "Adam Thomason",
+    "section": "Trombone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "azb0242",
+    "name": "Alex Bardo",
+    "section": "Mellophone",
+    "year": "4",
+    "role": "Section Leader"
+  },
+  {
+    "auburnID": "azm0359",
+    "name": "Aditya Menon",
+    "section": "Trombone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "azm0396",
+    "name": "Archer Matthias",
+    "section": "Front Ensemble",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "azs0361",
+    "name": "Adam Schneider",
+    "section": "Battery",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "azs0371",
+    "name": "Anna Sims",
+    "section": "Clarinet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "bce0013",
+    "name": "Brady Eldredge",
+    "section": "Mellophone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "bch0073",
+    "name": "Brendan Holley",
+    "section": "Trumpet",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "bcn0012",
+    "name": "Bella Nonales",
+    "section": "Drum Major",
+    "year": "4",
+    "role": "Drum Major"
+  },
+  {
+    "auburnID": "bdg0042",
+    "name": "Brodie Goodwin",
+    "section": "Mellophone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "bfd0008",
+    "name": "Brookley Davidson",
+    "section": "Flagline",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "bjb0100",
+    "name": "Benjamin Bryant",
+    "section": "Trombone",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "bje0020",
+    "name": "Bradley Eggers",
+    "section": "Front Ensemble",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "bjp0037",
+    "name": "Brady Purcell",
+    "section": "Mellophone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "bkb0071",
+    "name": "Bradyn Brothers",
+    "section": "Piccolo",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "bmb0136",
+    "name": "Brandon Buckely",
+    "section": "Front Ensemble",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "bnr0028",
+    "name": "Brendyn Royal",
+    "section": "Trumpet",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "brt0029",
+    "name": "Brandon Todd",
+    "section": "Baritone",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "bsa0017",
+    "name": "Banks Aycock",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "btj0027",
+    "name": "Brayden Jones",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "bzs0123",
+    "name": "Ben Schneider",
+    "section": "Tuba",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "can0043",
+    "name": "Corbett Nelms",
+    "section": "Trumpet",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "cat0118",
+    "name": "Campbell Thomas",
+    "section": "Trombone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "cau0006",
+    "name": "Claire Upton",
+    "section": "Danceline",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "cbb0101",
+    "name": "Colin Bowen",
+    "section": "Tuba",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "cca0041",
+    "name": "Chris Albritton",
+    "section": "Baritone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ccb0144",
+    "name": "Camille Bogdahn",
+    "section": "Alto Saxophone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ccj0059",
+    "name": "Christian Jackson",
+    "section": "Baritone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ceg0130",
+    "name": "Charles Gaston",
+    "section": "Tuba",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "cek0116",
+    "name": "Colette Kubik",
+    "section": "Front Ensemble",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "cev0032",
+    "name": "Courtney Vail",
+    "section": "Front Ensemble",
+    "year": "3",
+    "role": "Section Leader"
+  },
+  {
+    "auburnID": "cgh0082",
+    "name": "Gracie Hulsey",
+    "section": "Flagline",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "cgr0042",
+    "name": "Carter Robinson",
+    "section": "Mellophone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "chd0031",
+    "name": "Caleb Dorough",
+    "section": "Trumpet",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "chf0019",
+    "name": "Caleb Flowers",
+    "section": "Trumpet",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "chs0058",
+    "name": "Craig Stephenson",
+    "section": "Mellophone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "cjk0081",
+    "name": "Caleb Kubes",
+    "section": "Battery",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "cjl0098",
+    "name": "Caden Lagestee",
+    "section": "Trombone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "cjm0204",
+    "name": "Chloe McClure",
+    "section": "Flagline",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "cjt0059",
+    "name": "Colter Thomas",
+    "section": "Trombone",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "cjt0076",
+    "name": "Caleb Terry",
+    "section": "Trumpet",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "cjv0021",
+    "name": "Connor Varwig",
+    "section": "Tuba",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "cjw0113",
+    "name": "Carter Williams",
+    "section": "Mellophone",
+    "year": "4",
+    "role": "Section Leader"
+  },
+  {
+    "auburnID": "cjw0128",
+    "name": "Conlan Wright",
+    "section": "Trumpet",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "clc0210",
+    "name": "Carter Cavin",
+    "section": "Mellophone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "clm0183",
+    "name": "Calen Miller",
+    "section": "Alto Saxophone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "cma0100",
+    "name": "Claire Abrams",
+    "section": "Flagline",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "cmc0246",
+    "name": "Connor Creighton",
+    "section": "Trumpet",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "cmg0177",
+    "name": "Chaz Gaillard",
+    "section": "Battery",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "cna0024",
+    "name": "Ciana Antonio",
+    "section": "Clarinet",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "cpm0060",
+    "name": "Caleb McLendon",
+    "section": "Battery",
+    "year": "5",
+    "role": "Member"
+  },
+  {
+    "auburnID": "crh0146",
+    "name": "Callie Hendren",
+    "section": "Piccolo",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "csh0061",
+    "name": "Carreia Hart",
+    "section": "Piccolo",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "csl0060",
+    "name": "Cayman Little",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ctb0080",
+    "name": "Cullen Bryant",
+    "section": "Mellophone",
+    "year": "2",
+    "role": "RAT Leader"
+  },
+  {
+    "auburnID": "cuv0001",
+    "name": "Carter Von Ahnen",
+    "section": "Tuba",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "cwb0086",
+    "name": "Cooper Beasely",
+    "section": "Tuba",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "czh0159",
+    "name": "Cooper Hall",
+    "section": "Battery",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "dam0079",
+    "name": "Davis Muther",
+    "section": "Trombone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "daw0062",
+    "name": "David Winfrey",
+    "section": "Tuba",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "dcd0051",
+    "name": "Dylan Darnell",
+    "section": "Baritone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "dce0014",
+    "name": "Chase Erwin",
+    "section": "Alto Saxophone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "dcn0016",
+    "name": "Dakota Newsom",
+    "section": "Trombone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "dcw0060",
+    "name": "Derrick Williams II",
+    "section": "Alto Saxophone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "dem0055",
+    "name": "Davis McCaleb",
+    "section": "Clarinet",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "dep0027",
+    "name": "Daniel Pall",
+    "section": "Battery",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "dfl0007",
+    "name": "David Lether",
+    "section": "Tuba",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "dhs0029",
+    "name": "Daniel Starnes",
+    "section": "Trumpet",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "djm0085",
+    "name": "Jackson Miller",
+    "section": "Baritone",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "djt041",
+    "name": "Denesa Thompson",
+    "section": "Flagline",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "dpf0009",
+    "name": "Daley Foret",
+    "section": "Clarinet",
+    "year": "4",
+    "role": "Section Leader"
+  },
+  {
+    "auburnID": "dpp0013",
+    "name": "Paige Peterson",
+    "section": "Trumpet",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "drb0076",
+    "name": "Dawson Barnett",
+    "section": "Trombone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "dtm0038",
+    "name": "Daniel Milton",
+    "section": "Trombone",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "dzc0106",
+    "name": "Devin Cooper",
+    "section": "Alto Saxophone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ead0087",
+    "name": "Evan Dubroca",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "eak0071",
+    "name": "Emily Kwasigroh",
+    "section": "Flagline",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "eca0051",
+    "name": "Elise Anderson",
+    "section": "Majorette",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ecb0104",
+    "name": "Camilla Barber",
+    "section": "Flagline",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ecf0053",
+    "name": "Ethan Fligel",
+    "section": "Alto Saxophone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ecg0085",
+    "name": "Ella Gates",
+    "section": "Alto Saxophone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "edd0016",
+    "name": "Evan Dubose",
+    "section": "Tuba",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "eek0025",
+    "name": "Emma Kane",
+    "section": "Piccolo",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "efc0014",
+    "name": "Ethan Couch",
+    "section": "Alto Saxophone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "egf0028",
+    "name": "Elizabeth Floyd",
+    "section": "Trumpet",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "egf0064",
+    "name": "Eliana Foradori",
+    "section": "Baritone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "egp0044",
+    "name": "Emma Patton",
+    "section": "Flagline",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "egw0058",
+    "name": "Ella Weaver",
+    "section": "Danceline",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "egw0062",
+    "name": "Emma Walters",
+    "section": "Danceline",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ejb0095",
+    "name": "Evan Bryan",
+    "section": "Trombone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ejo0021",
+    "name": "Eric Ottaiano",
+    "section": "Alto Saxophone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ejw0096",
+    "name": "Ethan Williams",
+    "section": "Trombone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ejw0097",
+    "name": "Rhett Wesley",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "eko0012",
+    "name": "Lizzy Ochsenfeld",
+    "section": "Mellophone",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "emp0064",
+    "name": "Evan Pollard",
+    "section": "Clarinet",
+    "year": "6",
+    "role": "Member"
+  },
+  {
+    "auburnID": "enm0041",
+    "name": "Ella Miele",
+    "section": "Piccolo",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ent0026",
+    "name": "Emily Tillman",
+    "section": "Piccolo",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "erh0086",
+    "name": "Everett Ham",
+    "section": "Tuba",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "erm0095",
+    "name": "Elly Mulder",
+    "section": "Piccolo",
+    "year": "3",
+    "role": "Section Leader"
+  },
+  {
+    "auburnID": "esr0044",
+    "name": "Ellie Richards",
+    "section": "Mellophone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ezd0071",
+    "name": "Erin Darnall",
+    "section": "Mellophone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ezp0048",
+    "name": "Miro Perez",
+    "section": "Clarinet",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "fab0008",
+    "name": "Fredrick Brown",
+    "section": "Drum Major",
+    "year": "4",
+    "role": "Drum Major"
+  },
+  {
+    "auburnID": "fag0006",
+    "name": "Aaron Gonzalez",
+    "section": "Tuba",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "fel0006",
+    "name": "Faith Laws",
+    "section": "Trumpet",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "gam0070",
+    "name": "Gabby Millar",
+    "section": "Front Ensemble",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "gcw0039",
+    "name": "Gavin Warren",
+    "section": "Alto Saxophone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "geh0042",
+    "name": "Gabriella Hawkes",
+    "section": "Clarinet",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "glb0047",
+    "name": "Gavin Burttram",
+    "section": "Alto Saxophone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "grg0024",
+    "name": "Grant Gillespie",
+    "section": "Trombone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "gzm0078",
+    "name": "Gavin McKinney",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "hcb0061",
+    "name": "Artem Buchanan",
+    "section": "Mellophone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "hdp0020",
+    "name": "Hollis Prosser",
+    "section": "Battery",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "hge0008",
+    "name": "Harper Echeverry",
+    "section": "Flagline",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "hgt0030",
+    "name": "Hannah Thompson",
+    "section": "Tuba",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "hjh0067",
+    "name": "Hannah Herring",
+    "section": "Baritone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "hlj0026",
+    "name": "Hailey Joiner",
+    "section": "Piccolo",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "hls0067",
+    "name": "Hannah Stamper",
+    "section": "Mellophone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "hmj0030",
+    "name": "Haylee Michael Jeffress",
+    "section": "Flagline",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "hsm0040",
+    "name": "Hayden Miller",
+    "section": "Trombone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "hts0031",
+    "name": "Haley Stoddard",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "hzj0067",
+    "name": "Helena Jesionowski",
+    "section": "Flagline",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ieh0009",
+    "name": "Izzy Horton",
+    "section": "Danceline",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "irt0005",
+    "name": "Isabella Trentacosti",
+    "section": "Flagline",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "iwm0002",
+    "name": "Issak Montoya",
+    "section": "Clarinet",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "izs0024",
+    "name": "Ian Smith",
+    "section": "Trombone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jab0332",
+    "name": "Josh Boyd",
+    "section": "Front Ensemble",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jag0179",
+    "name": "Jackson Gilson",
+    "section": "Clarinet",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jag0180",
+    "name": "Julie Griffin",
+    "section": "Alto Saxophone",
+    "year": "2",
+    "role": "Section Leader"
+  },
+  {
+    "auburnID": "jaj0116",
+    "name": "Jonah Jeck",
+    "section": "Baritone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jaj0126",
+    "name": "Aiden Johnson",
+    "section": "Trombone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jam0290",
+    "name": "Jacob Mann",
+    "section": "Trombone",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jaw0237",
+    "name": "JaneMarie Woolbright",
+    "section": "Clarinet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jbc0101",
+    "name": "Josh Calvert",
+    "section": "Trumpet",
+    "year": "4",
+    "role": "Section Leader"
+  },
+  {
+    "auburnID": "jbc0143",
+    "name": "Jordan Cook",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jbw0097",
+    "name": "Jack Weber",
+    "section": "Alto Saxophone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jcb0244",
+    "name": "Jordan Buckley",
+    "section": "Trumpet",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jcr0122",
+    "name": "Cannon Russell",
+    "section": "Alto Saxophone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jcr0128",
+    "name": "Josh Rigby",
+    "section": "Tuba",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jcs0175",
+    "name": "Cole Stewart",
+    "section": "Battery",
+    "year": "5",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jcs0182",
+    "name": "Jacob Sauls",
+    "section": "Trumpet",
+    "year": "5",
+    "role": "Section Leader"
+  },
+  {
+    "auburnID": "jcw0115",
+    "name": "Jackson Walters",
+    "section": "Trombone",
+    "year": "5",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jdd0109",
+    "name": "John Deboer",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jdh0209",
+    "name": "Jacob Henderson",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jdk0071",
+    "name": "Jada Kennon",
+    "section": "Piccolo",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jdm0206",
+    "name": "Davis McKenzie",
+    "section": "Trombone",
+    "year": "4",
+    "role": "Section Leader"
+  },
+  {
+    "auburnID": "jds0209",
+    "name": "Josh Smith",
+    "section": "Trombone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jek0061",
+    "name": "Jacob Kroll",
+    "section": "Clarinet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jgb0060",
+    "name": "Jonah Blackwood",
+    "section": "Trumpet",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jgh0073",
+    "name": "Gage Havens",
+    "section": "Trombone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jgj0017",
+    "name": "Jacob Jernigan",
+    "section": "Trumpet",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jhb0094",
+    "name": "Josh Banister",
+    "section": "Trumpet",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jhl0061",
+    "name": "James Lewis",
+    "section": "Trombone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jih0021",
+    "name": "Jayne Hansberger",
+    "section": "Mellophone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jjf0035",
+    "name": "Jessica Joy Ferguson",
+    "section": "Majorette",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jka0041",
+    "name": "Jessie Averitt",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jkv0010",
+    "name": "Kaeden Vail",
+    "section": "Trombone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jlp0113",
+    "name": "Jack Piper",
+    "section": "Baritone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jmh0316",
+    "name": "Jalon Hunt",
+    "section": "Alto Saxophone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jmm0324",
+    "name": "Jacob May",
+    "section": "Trumpet",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jmw0212",
+    "name": "Julia Wright",
+    "section": "Mellophone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jpc0101",
+    "name": "Jackson Crichton",
+    "section": "Alto Saxophone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jpl0048",
+    "name": "Jayden LaCross",
+    "section": "Trumpet",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jpl0057",
+    "name": "John Lewis",
+    "section": "Tuba",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jps0142",
+    "name": "Jacob Stuckey",
+    "section": "Battery",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jrp0123",
+    "name": "Jones Preg",
+    "section": "Clarinet",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jsh0104",
+    "name": "Jacob Hurst",
+    "section": "Trumpet",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jsl0071",
+    "name": "Jennifer Lee",
+    "section": "Tuba",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jsr0088",
+    "name": "Jackson Reardon",
+    "section": "Battery",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jss0113",
+    "name": "Jonah Smith",
+    "section": "Trumpet",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jsv0012",
+    "name": "Jarrel Vergara",
+    "section": "Clarinet",
+    "year": "4",
+    "role": "Section Leader"
+  },
+  {
+    "auburnID": "jtw0134",
+    "name": "Jadon Watson",
+    "section": "Battery",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jwh0105",
+    "name": "Jared Henderson",
+    "section": "Trumpet",
+    "year": "5",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jwv0020",
+    "name": "Jake Van Dermark",
+    "section": "Tuba",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jzb0264",
+    "name": "Stillman Brown",
+    "section": "Alto Saxophone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jzb0279",
+    "name": "James Brown",
+    "section": "Tuba",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "jzm0247",
+    "name": "Jack Mitchell",
+    "section": "Trumpet",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "kab0204",
+    "name": "Alex Black",
+    "section": "Trombone",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "kac0164",
+    "name": "Katie Collier",
+    "section": "Majorette",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "kap0125",
+    "name": "Koen Pritchard",
+    "section": "Battery",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "kap0150",
+    "name": "Kiersten Pritchard",
+    "section": "Flagline",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "kas0243",
+    "name": "Katie Smith",
+    "section": "Mellophone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "kav0021",
+    "name": "Kyle Vinson",
+    "section": "Clarinet",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "kba0023",
+    "name": "Kyler Ashcraft",
+    "section": "Battery",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "kbr0034",
+    "name": "Kenneth Robinson",
+    "section": "Trumpet",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "kcj0023",
+    "name": "Kyle James",
+    "section": "Alto Saxophone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "kde0016",
+    "name": "Kiersten Engstrom",
+    "section": "Clarinet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "kec0182",
+    "name": "Katie Chartrand",
+    "section": "Majorette",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "keh0185",
+    "name": "Kaydence Hay",
+    "section": "Flagline",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "kem0210",
+    "name": "Katie Miller",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "keo0030",
+    "name": "Katie Olejnik",
+    "section": "Mellophone",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "kfb0014",
+    "name": "Faith Burgess",
+    "section": "Majorette",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "kga0015",
+    "name": "Kylie Argo",
+    "section": "Alto Saxophone",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "kgt0021",
+    "name": "Kaitlyn Taylor",
+    "section": "Danceline",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "khp0018",
+    "name": "Kayson Parker",
+    "section": "Trumpet",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "kjb0101",
+    "name": "Kathryn Baker",
+    "section": "Clarinet",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "kjw0076",
+    "name": "Kenneth Wang",
+    "section": "Baritone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "kkb0032",
+    "name": "Kelley Bush",
+    "section": "Flagline",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "kkc0019",
+    "name": "Kalea Connolly",
+    "section": "Piccolo",
+    "year": "4",
+    "role": "Section Leader"
+  },
+  {
+    "auburnID": "knb0077",
+    "name": "Kaitlyn Byrd",
+    "section": "Alto Saxophone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "kns0077",
+    "name": "Kendall Sturdivant",
+    "section": "Flagline",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "kph0033",
+    "name": "Kyla Hampson",
+    "section": "Drum Major",
+    "year": "5",
+    "role": "Drum Major"
+  },
+  {
+    "auburnID": "ktj0019",
+    "name": "Ken Jones",
+    "section": "Trombone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "kws0027",
+    "name": "Wyatt Stewart",
+    "section": "Trumpet",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "kws0030",
+    "name": "Kyle Simmonds",
+    "section": "Tuba",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "kzf0066",
+    "name": "Kennedy Foxhall",
+    "section": "Flagline",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "lac0116",
+    "name": "Lauren Campbell",
+    "section": "Clarinet",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "lac0148",
+    "name": "Luke Chynoweth",
+    "section": "Alto Saxophone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "lao0025",
+    "name": "Levi Onori",
+    "section": "Battery",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "law0130",
+    "name": "Lois Ann Wester",
+    "section": "Majorette",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "lcc0076",
+    "name": "Lindsey Cooling",
+    "section": "Battery",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "lde0010",
+    "name": "Logan Elkins",
+    "section": "Battery",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "led0077",
+    "name": "Libbey Dudley",
+    "section": "Majorette",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ljs0078",
+    "name": "Jamie Sokolowski",
+    "section": "Alto Saxophone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "lkt0010",
+    "name": "Lilly Tait",
+    "section": "Battery",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "lla0011",
+    "name": "Lindsey Allen",
+    "section": "Trombone",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "llb0049",
+    "name": "Lila Boyd",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "lmd0088",
+    "name": "Landen Davidson",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "lph0019",
+    "name": "Lester Harbison",
+    "section": "Mellophone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "lzc0103",
+    "name": "Logan Chandler",
+    "section": "Battery",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mab0344",
+    "name": "Mason Blick",
+    "section": "Mellophone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mag0172",
+    "name": "Meredith Goodman",
+    "section": "Trumpet",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mak0129",
+    "name": "Max Karell",
+    "section": "Alto Saxophone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mam0422",
+    "name": "Madison Massone",
+    "section": "Danceline",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mas0350",
+    "name": "Max Simon",
+    "section": "Trombone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mbf0040",
+    "name": "Maggie Frost",
+    "section": "Trombone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mbh0096",
+    "name": "Matthew Hutcherson",
+    "section": "Baritone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mce0044",
+    "name": "Mady Ezell",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mcl0088",
+    "name": "Morgan Lockhart",
+    "section": "Clarinet",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mcm0240",
+    "name": "Megan Malloy",
+    "section": "Danceline",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mdb0116",
+    "name": "Diffly Bird",
+    "section": "Trombone",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "meg0169",
+    "name": "Meg Gautney",
+    "section": "Clarinet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mel0134",
+    "name": "Morgan Lee",
+    "section": "Majorette",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mgc0107",
+    "name": "Mady Cannon",
+    "section": "Flagline",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mjc0146",
+    "name": "Morgan Coleman",
+    "section": "Piccolo",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mjg0087",
+    "name": "Myles Gaillard",
+    "section": "Trombone",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mjg0094",
+    "name": "Mandy Gregory",
+    "section": "Front Ensemble",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mlr0115",
+    "name": "Maddie Randall",
+    "section": "Majorette",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mmo0034",
+    "name": "Meagan Owen",
+    "section": "Tuba",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mng0033",
+    "name": "Moses Gonzalez",
+    "section": "Tuba",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mnh0039",
+    "name": "Mikail Hill",
+    "section": "Tuba",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mpl0038",
+    "name": "Mollie Lewis",
+    "section": "Battery",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mrh0155",
+    "name": "Michaela Hilley",
+    "section": "Piccolo",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mrl0095",
+    "name": "Maria Levio",
+    "section": "Clarinet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mrm0208",
+    "name": "Melina Moulas",
+    "section": "Danceline",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mrr0062",
+    "name": "Michael Reuss",
+    "section": "Baritone",
+    "year": "4",
+    "role": "Section Leader"
+  },
+  {
+    "auburnID": "mrt0065",
+    "name": "Matthew Thompson",
+    "section": "Mellophone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mss0134",
+    "name": "Maggie Sanders",
+    "section": "Baritone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mzl0191",
+    "name": "Martin Lin",
+    "section": "Clarinet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "mzw0145",
+    "name": "Molly Wilson",
+    "section": "Trumpet",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "nak0032",
+    "name": "Naomi Kerschen",
+    "section": "Mellophone",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ncy0004",
+    "name": "Nathan Yancey",
+    "section": "Tuba",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "nes0043",
+    "name": "Nicole Seale-Esposito",
+    "section": "Mellophone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "nge0005",
+    "name": "Nathaniel Ehret",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "nhp0016",
+    "name": "Noah Prioleau",
+    "section": "Trombone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "njc0043",
+    "name": "Nathan Cox",
+    "section": "Alto Saxophone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "nlw0021",
+    "name": "Natalie Winters",
+    "section": "Clarinet",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "nmb0046",
+    "name": "Nathan Byrne",
+    "section": "Trumpet",
+    "year": "4",
+    "role": "Section Leader"
+  },
+  {
+    "auburnID": "nmm0048",
+    "name": "Noah McCutchen",
+    "section": "Trumpet",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "npp0011",
+    "name": "Nathan Plourde",
+    "section": "Mellophone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "nrg0028",
+    "name": "Rex Gann",
+    "section": "Alto Saxophone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "nrs0042",
+    "name": "Nathan Speake",
+    "section": "Trumpet",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "nth0024",
+    "name": "Nate Hunter",
+    "section": "Tuba",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "obj0004",
+    "name": "Oliver Jackson",
+    "section": "Front Ensemble",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "odt0001",
+    "name": "Oliver Trolard",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "omw0012",
+    "name": "Olivia Walker",
+    "section": "Clarinet",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "owf0001",
+    "name": "Owen Fuller",
+    "section": "Battery",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ozn0008",
+    "name": "Owen Nichols",
+    "section": "Battery",
+    "year": "2",
+    "role": "RAT Leader"
+  },
+  {
+    "auburnID": "pbm0017",
+    "name": "Bryson Moon",
+    "section": "Trombone",
+    "year": "3",
+    "role": "Section Leader"
+  },
+  {
+    "auburnID": "pdc0025",
+    "name": "Patrick Cain",
+    "section": "Battery",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "pem0032",
+    "name": "Parker Murray",
+    "section": "Tuba",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "phj0005",
+    "name": "Parker Johns",
+    "section": "Trumpet",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "pmr0025",
+    "name": "Paige Rosckes",
+    "section": "Danceline",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "pwd0009",
+    "name": "Will Duke",
+    "section": "Mellophone",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "pwd0010",
+    "name": "Parker Davis",
+    "section": "Battery",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "rab0165",
+    "name": "Riley Brown",
+    "section": "Piccolo",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "rab0167",
+    "name": "Reagan Brown",
+    "section": "Piccolo",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "rcj0038",
+    "name": "Riley Jackson",
+    "section": "Danceline",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "rda0023",
+    "name": "Raul Acevedo",
+    "section": "Battery",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "rdl0035",
+    "name": "Robbie Lee",
+    "section": "Alto Saxophone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "rem0127",
+    "name": "Reagan Monnin",
+    "section": "Clarinet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "rew0067",
+    "name": "Ryan Wellman",
+    "section": "Alto Saxophone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "rgt0019",
+    "name": "Ryan Tinch",
+    "section": "Tuba",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "rjp0052",
+    "name": "Ryan Piggott",
+    "section": "Tuba",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "rlw0066",
+    "name": "Ricky Whorms",
+    "section": "Alto Saxophone",
+    "year": "4",
+    "role": "Section Leader"
+  },
+  {
+    "auburnID": "rmg0066",
+    "name": "Ronald Gurney",
+    "section": "Battery",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "rmg0072",
+    "name": "Ruth Gregory",
+    "section": "Flagline",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "rps0037",
+    "name": "Ryan Sanders",
+    "section": "Front Ensemble",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "rrp0031",
+    "name": "Raj Patel",
+    "section": "Trombone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "rsh0039",
+    "name": "Stone Hudders",
+    "section": "Baritone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "rtj0025",
+    "name": "Ross Tolbert",
+    "section": "Drum Major",
+    "year": "5",
+    "role": "Drum Major"
+  },
+  {
+    "auburnID": "sah0141",
+    "name": "Sarah Horner",
+    "section": "Alto Saxophone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "saj0066",
+    "name": "Sarah Jackson",
+    "section": "Majorette",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "saw0127",
+    "name": "Sara White",
+    "section": "Flagline",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "sbk0030",
+    "name": "Shelby Kahn",
+    "section": "Clarinet",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "scg0075",
+    "name": "Sasha Gann",
+    "section": "Piccolo",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "scs0142",
+    "name": "Steven Snow",
+    "section": "Trumpet",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "seb0164",
+    "name": "Sam Ballard",
+    "section": "Tuba",
+    "year": "5",
+    "role": "Section Leader"
+  },
+  {
+    "auburnID": "seb0246",
+    "name": "Sara Bruce",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "sew0137",
+    "name": "Sam Whittington",
+    "section": "Trombone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "sgs0115",
+    "name": "Sawyer Shealy",
+    "section": "Alto Saxophone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "sjp0065",
+    "name": "Janie Poe",
+    "section": "Trombone",
+    "year": "5",
+    "role": "Member"
+  },
+  {
+    "auburnID": "sjs0113",
+    "name": "Sydney Spindler",
+    "section": "Trumpet",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "sjt0039",
+    "name": "Sara Turner",
+    "section": "Majorette",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "skc0068",
+    "name": "Sarah Clark",
+    "section": "Front Ensemble",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "slc0099",
+    "name": "Sabrina Creighton",
+    "section": "Alto Saxophone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "smc0184",
+    "name": "Sam Copeland",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "sml0117",
+    "name": "Spencer Lieth",
+    "section": "Front Ensemble",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "smm0169",
+    "name": "Sophie McKinnon",
+    "section": "Danceline",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "sms0208",
+    "name": "Savanna Smith",
+    "section": "Piccolo",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "smt0087",
+    "name": "Sam Thomas",
+    "section": "Alto Saxophone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "smt0092",
+    "name": "Sam Trejo",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "soc0010",
+    "name": "Spencer Coe",
+    "section": "Trumpet",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "srm0130",
+    "name": "Spencer Maples",
+    "section": "Front Ensemble",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ssk0026",
+    "name": "Sophia Kwon",
+    "section": "Clarinet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "stw0049",
+    "name": "Shep Wolfe",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "svt0005",
+    "name": "Sage Traylor",
+    "section": "Flagline",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "szh0186",
+    "name": "Seth Hickman",
+    "section": "Alto Saxophone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "tac0086",
+    "name": "Trey Cosper",
+    "section": "Front Ensemble",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "tbh0050",
+    "name": "Trent Hilton",
+    "section": "Tuba",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "tcl0031",
+    "name": "Tucker Lambert",
+    "section": "Trombone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "tdb0054",
+    "name": "Ty Barnes",
+    "section": "Trumpet",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "tdh0072",
+    "name": "Travis Hendley",
+    "section": "Trombone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "ten0011",
+    "name": "Theron Nixon",
+    "section": "Tuba",
+    "year": "3",
+    "role": "Section Leader"
+  },
+  {
+    "auburnID": "tit0003",
+    "name": "Austin Taylor",
+    "section": "Mellophone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "trw0056",
+    "name": "Thomas Washer",
+    "section": "Alto Saxophone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "tzm0123",
+    "name": "Tae Moon",
+    "section": "Trombone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "tzs0127",
+    "name": "Tate Sparks",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "vam0036",
+    "name": "Victoria Moran",
+    "section": "Mellophone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "vlm0025",
+    "name": "Victor Markell",
+    "section": "Trombone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "vng0010",
+    "name": "Naelee Griffith",
+    "section": "Majorette",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "vsw0009",
+    "name": "Victoria Whisenant",
+    "section": "Mellophone",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "wah0047",
+    "name": "Wesley Harvey",
+    "section": "Trumpet",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "wfr0008",
+    "name": "Will Rhodes",
+    "section": "Trombone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "wgp0018",
+    "name": "Wills Perkinson",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "whs0041",
+    "name": "Harris Spinks",
+    "section": "Trumpet",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "wrb0035",
+    "name": "Will Brawner",
+    "section": "Baritone",
+    "year": "3",
+    "role": "Member"
+  },
+  {
+    "auburnID": "wsc0026",
+    "name": "Will Cox",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "wtc0031",
+    "name": "Tate Correia",
+    "section": "Trombone",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "wzs0046",
+    "name": "Wilson Slocumb",
+    "section": "Trumpet",
+    "year": "2",
+    "role": "Member"
+  },
+  {
+    "auburnID": "wzw0051",
+    "name": "Winton Williams",
+    "section": "Trombone",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "zda0008",
+    "name": "Zack Adams",
+    "section": "Trumpet",
+    "year": "1",
+    "role": "Member"
+  },
+  {
+    "auburnID": "znn0002",
+    "name": "Zaim Nilgiriwala",
+    "section": "Trumpet",
+    "year": "4",
+    "role": "Member"
+  },
+  {
+    "auburnID": "zsh0012",
+    "name": "Zander Horton",
+    "section": "Trumpet",
+    "year": "2",
+    "role": "Member"
+  }
+]

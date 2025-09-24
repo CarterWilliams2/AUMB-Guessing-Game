@@ -1,48 +1,75 @@
-import { useState } from "react";
+import { SetStateAction, useState, useEffect } from "react";
 import "./Game.css";
+import { ComparisonResult, Guess } from "./types";
+import { compareGuess } from "./utils/compareGuess";
+import members from "./members.json";
 
 function Game() {
-  type Guess = {
-  name: string;
-  instrument: string;
-  year: string;
-  role: string;
-  major: string;
-}; 
-
   const [guess, setGuess] = useState("");
   const [guesses, setGuesses] = useState<Guess[]>([]);
+  const [allMembers] = useState(members);
 
-  const handleChange = (e) => {
+  const secretMember: Guess = {
+    name: "Carter Williams",
+    section: "Mellophone",
+    year: "4",
+    role: "Section Leader",
+    auburnID: "cjw0113",
+  };
+
+  // not using backend for now
+  // useEffect(() => {
+  //   fetch("http://localhost:3001/members")
+  //     .then((res) => res.json())
+  //     .then((data) => {
+  //       console.log("Fetched members:", data);
+  //       setMembers(data);
+  //     })
+  //     .catch((err) => console.error("Error fetching members:", err));
+  // }, []);
+
+  const handleChange = (e: { target: { value: SetStateAction<string> } }) => {
     setGuess(e.target.value);
   };
 
   const handleSubmitGuess = () => {
     if (!guess.trim()) return;
 
-    const newGuess = {
-      name: guess,
-      instrument: '',
-      year: '',
-      role: '',
-      major: '',
-    };
+    const found = allMembers.find(
+      (m) => m.name.toLowerCase() === guess.toLowerCase()
+    );
 
-    setGuesses([...guesses, newGuess]);
-    setGuess('');                       
+    if (found) {
+      setGuesses([...guesses, found]);
+    } else {
+      // If not found, still show the name but empty details
+      setGuesses([
+        ...guesses,
+        { name: guess, section: "", year: "", role: "", auburnID: "" },
+      ]);
+    }
+
+    setGuess("");
   };
 
- 
+  const lastComparison =
+  guesses.length > 0 ? compareGuess(guesses[guesses.length - 1], secretMember) : null;
 
   return (
     <div className="game-container">
-      <input 
-        type="text" 
-        placeholder="Enter a band member" 
-        value={guess} 
-        onChange={handleChange} 
+      {lastComparison?.equal ? (
+        <h1>You guessed the daily secret member!</h1>
+      ) : (
+        <>
+      <input
+        type="text"
+        placeholder="Enter a band member"
+        value={guess}
+        onChange={handleChange}
       />
       <button onClick={handleSubmitGuess}>Submit Guess</button>
+      </>
+      )}
 
       {guesses.length > 0 && (
         <table>
@@ -50,23 +77,29 @@ function Game() {
             <tr>
               <th>Guess #</th>
               <th>Name</th>
-              <th>Instrument</th>
+              <th>Section</th>
               <th>Year</th>
               <th>Role</th>
-              <th>Major</th>
             </tr>
           </thead>
           <tbody>
-            {guesses.map((g, i) => (
-              <tr key={i}>
-                <td>{i + 1}</td>
-                <td>{g.name}</td>
-                <td>{g.instrument}</td>
-                <td>{g.year}</td>
-                <td>{g.role}</td>
-                <td>{g.major}</td>
-              </tr>
-            ))}
+            {guesses.map((g, i) => {
+              const comparison: ComparisonResult = compareGuess(
+                g,
+                secretMember
+              );
+
+              return (
+                <tr key={i}>
+                  <td>{i + 1}</td>
+                  <td className={comparison.nameMatch}>{g.name}</td>
+                  <td className={comparison.sectionMatch}>{g.section}</td>
+                  <td className={comparison.yearMatch}>{g.year}</td>
+                  <td className={comparison.roleMatch}>{g.role}</td>
+                </tr>
+                
+              );
+            })}
           </tbody>
         </table>
       )}
