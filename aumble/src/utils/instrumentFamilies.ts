@@ -5,6 +5,7 @@ export const instrumentFamilies: Record<string, string> = {
     trumpet: 'Brass',
     mellophone: 'Brass',
     trombone: 'Brass',
+    baritone: 'Brass',
     tuba: 'Brass',
     battery: 'Percussion',
     frontensemble: 'Percussion',
