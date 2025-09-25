@@ -8,7 +8,9 @@ function Game() {
   const [guess, setGuess] = useState("");
   const [guesses, setGuesses] = useState<Guess[]>([]);
   const [allMembers] = useState(members);
-
+  const memberNames = allMembers.map(m => m.name);
+  const [filteredMembers, setFilteredMembers] = useState<string[]>(memberNames);
+  
   const secretMember: Guess = allMembers.find(
     (m) => m.name === "Jack Piper"
   ) ?? {
@@ -30,8 +32,14 @@ function Game() {
   //     .catch((err) => console.error("Error fetching members:", err));
   // }, []);
 
-  const handleChange = (e: { target: { value: SetStateAction<string> } }) => {
-    setGuess(e.target.value);
+  const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
+    const value: string = e.target.value;
+    setGuess(value);
+
+    const results = memberNames.filter((name) => 
+    name.toLowerCase().includes(value.toLowerCase())
+  );
+  setFilteredMembers(results);
   };
 
   const handleSubmitGuess = () => {
@@ -44,7 +52,6 @@ function Game() {
     if (found) {
       setGuesses([...guesses, found]);
     } else {
-      // If not found, still show the name but empty details
       setGuesses([
         ...guesses,
         { name: guess, section: "", year: "", role: "", auburnID: "" },
@@ -70,7 +77,14 @@ function Game() {
             placeholder="Enter a band member"
             value={guess}
             onChange={handleChange}
+            list="members-list"
           />
+
+          <datalist id="members-list">
+            {filteredMembers.map((name, i) => (
+              <option key={i} value={name} />
+            ))}
+          </datalist>
           <button onClick={handleSubmitGuess}>Submit Guess</button>
         </>
       )}
