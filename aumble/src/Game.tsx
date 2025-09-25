@@ -3,14 +3,16 @@ import "./Game.css";
 import { ComparisonResult, Guess } from "./types";
 import { compareGuess } from "./utils/compareGuess";
 import members from "./members.json";
+import useDebounce from "./hooks/useDebounce";
 
 function Game() {
   const [guess, setGuess] = useState("");
   const [guesses, setGuesses] = useState<Guess[]>([]);
   const [allMembers] = useState(members);
-  const memberNames = allMembers.map(m => m.name);
+  const memberNames = allMembers.map((m) => m.name);
   const [filteredMembers, setFilteredMembers] = useState<string[]>(memberNames);
-  
+  const debouncedGuess = useDebounce(guess, 200);
+
   const secretMember: Guess = allMembers.find(
     (m) => m.name === "Brendan Holley"
   ) ?? {
@@ -33,14 +35,15 @@ function Game() {
   // }, []);
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
-    const value: string = e.target.value;
-    setGuess(value);
-
-    const results = memberNames.filter((name) => 
-    name.toLowerCase().includes(value.toLowerCase())
-  );
-  setFilteredMembers(results);
+    setGuess(e.target.value);
   };
+
+  useEffect(() => {
+    const results = memberNames.filter((name) =>
+      name.toLowerCase().includes(debouncedGuess.toLowerCase())
+    );
+    setFilteredMembers(results);
+  }, [debouncedGuess]);
 
   const handleSubmitGuess = () => {
     if (!guess.trim()) return;
