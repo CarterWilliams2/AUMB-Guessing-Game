@@ -9,12 +9,14 @@ function Game() {
   const [guesses, setGuesses] = useState<Guess[]>([]);
   const [allMembers] = useState(members);
 
-  const secretMember: Guess = {
-    name: "Winton Williams",
-    section: "Trombone",
-    year: "4",
-    role: "Member",
-    auburnID: "wzw0051",
+  const secretMember: Guess = allMembers.find(
+    (m) => m.name === "Jack Piper"
+  ) ?? {
+    name: "Unknown",
+    section: "",
+    year: "",
+    role: "",
+    auburnID: "",
   };
 
   // not using backend for now
@@ -53,7 +55,9 @@ function Game() {
   };
 
   const lastComparison =
-  guesses.length > 0 ? compareGuess(guesses[guesses.length - 1], secretMember) : null;
+    guesses.length > 0
+      ? compareGuess(guesses[guesses.length - 1], secretMember)
+      : null;
 
   return (
     <div className="game-container">
@@ -61,14 +65,14 @@ function Game() {
         <h1>You guessed the daily secret member!</h1>
       ) : (
         <>
-      <input
-        type="text"
-        placeholder="Enter a band member"
-        value={guess}
-        onChange={handleChange}
-      />
-      <button onClick={handleSubmitGuess}>Submit Guess</button>
-      </>
+          <input
+            type="text"
+            placeholder="Enter a band member"
+            value={guess}
+            onChange={handleChange}
+          />
+          <button onClick={handleSubmitGuess}>Submit Guess</button>
+        </>
       )}
 
       {guesses.length > 0 && (
@@ -97,7 +101,6 @@ function Game() {
                   <td className={comparison.yearMatch}>{g.year}</td>
                   <td className={comparison.roleMatch}>{g.role}</td>
                 </tr>
-                
               );
             })}
           </tbody>
