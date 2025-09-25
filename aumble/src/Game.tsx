@@ -12,7 +12,7 @@ function Game() {
   const [filteredMembers, setFilteredMembers] = useState<string[]>(memberNames);
   
   const secretMember: Guess = allMembers.find(
-    (m) => m.name === "Jack Piper"
+    (m) => m.name === "Brendan Holley"
   ) ?? {
     name: "Unknown",
     section: "",
