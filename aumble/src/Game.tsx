@@ -41,7 +41,7 @@ function Game() {
   useEffect(() => {
     const results = memberNames.filter((name) =>
       name.toLowerCase().includes(debouncedGuess.toLowerCase())
-    );
+    ).slice(0, 10);
     setFilteredMembers(results);
   }, [debouncedGuess]);
 
