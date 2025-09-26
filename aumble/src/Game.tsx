@@ -51,7 +51,7 @@ function Game() {
     if (!guess.trim()) return;
 
     const found = allMembers.find(
-      (m) => m.name.toLowerCase() === guess.toLowerCase()
+      (m) => m.name.toLowerCase().trim() === guess.toLowerCase().trim()
     );
 
     if (found) {
@@ -88,7 +88,7 @@ function Game() {
               <option key={i} value={name} />
             ))}
           </datalist>
-          
+
           <button onClick={handleSubmitGuess}>Submit Guess</button>
 
           {error && <p className="error">{error}</p>}
