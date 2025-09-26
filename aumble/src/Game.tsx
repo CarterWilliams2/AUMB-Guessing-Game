@@ -14,7 +14,7 @@ function Game() {
   const debouncedGuess = useDebounce(guess, 200);
 
   const secretMember: Guess = allMembers.find(
-    (m) => m.name === "Wilson Slocumb"
+    (m) => m.name === "Daley Foret"
   ) ?? {
     name: "Unknown",
     section: "",
