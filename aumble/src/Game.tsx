@@ -1,9 +1,10 @@
-import { SetStateAction, useState, useEffect } from "react";
+import { useState, useEffect } from "react";
 import "./Game.css";
 import { ComparisonResult, Guess } from "./types";
 import { compareGuess } from "./utils/compareGuess";
 import members from "./members.json";
 import useDebounce from "./hooks/useDebounce";
+
 
 function Game() {
   const [guess, setGuess] = useState("");
@@ -12,6 +13,7 @@ function Game() {
   const memberNames = allMembers.map((m) => m.name);
   const [filteredMembers, setFilteredMembers] = useState<string[]>(memberNames);
   const debouncedGuess = useDebounce(guess, 200);
+  const [error, setError] = useState("");
 
   const secretMember: Guess = allMembers.find(
     (m) => m.name === "Daley Foret"
@@ -54,11 +56,9 @@ function Game() {
 
     if (found) {
       setGuesses([...guesses, found]);
+      setError("");
     } else {
-      setGuesses([
-        ...guesses,
-        { name: guess, section: "", year: "", role: "", auburnID: "" },
-      ]);
+      setError("No member found with that name!");
     }
 
     setGuess("");
@@ -88,7 +88,10 @@ function Game() {
               <option key={i} value={name} />
             ))}
           </datalist>
+          
           <button onClick={handleSubmitGuess}>Submit Guess</button>
+
+          {error && <p className="error">{error}</p>}
         </>
       )}
 
