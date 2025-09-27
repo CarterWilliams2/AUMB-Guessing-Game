@@ -4,7 +4,7 @@ import { ComparisonResult, Guess } from "./types";
 import { compareGuess } from "./utils/compareGuess";
 import members from "./members.json";
 import useDebounce from "./hooks/useDebounce";
-
+import { makeWinMessage } from "./utils/makeWinMessage";
 
 function Game() {
   const [guess, setGuess] = useState("");
@@ -14,7 +14,7 @@ function Game() {
   const [filteredMembers, setFilteredMembers] = useState<string[]>(memberNames);
   const debouncedGuess = useDebounce(guess, 200);
   const [error, setError] = useState("");
- 
+  let winMessage: string = "";
 
   const secretMember: Guess = allMembers.find(
     (m) => m.name === "Daley Foret"
@@ -42,9 +42,11 @@ function Game() {
   };
 
   useEffect(() => {
-    const results = memberNames.filter((name) =>
-      name.toLowerCase().includes(debouncedGuess.toLowerCase())
-    ).slice(0, 10);
+    const results = memberNames
+      .filter((name) =>
+        name.toLowerCase().includes(debouncedGuess.toLowerCase())
+      )
+      .slice(0, 10);
     setFilteredMembers(results);
   }, [debouncedGuess]);
 
@@ -65,15 +67,25 @@ function Game() {
     setGuess("");
   };
 
+  const results: ComparisonResult[] = guesses.map((g) =>
+    compareGuess(g, secretMember)
+  );
+
   const lastComparison =
-    guesses.length > 0
-      ? compareGuess(guesses[guesses.length - 1], secretMember)
-      : null;
+    results.length > 0 ? results[results.length - 1] : null;
+
+  let winMeassage = "";
+  if (lastComparison?.equal) {
+    winMessage = makeWinMessage(results);
+  }
 
   return (
     <div className="game-container">
       {lastComparison?.equal ? (
-        <h1>You guessed the daily secret member!</h1>
+        <>
+          <h1>You guessed the daily secret member!</h1>
+          <p style={{ whiteSpace: "pre-line" }}>{winMessage}</p>
+        </>
       ) : (
         <>
           <input
@@ -113,6 +125,8 @@ function Game() {
                 g,
                 secretMember
               );
+
+              results.push(comparison);
 
               return (
                 <tr key={i}>
