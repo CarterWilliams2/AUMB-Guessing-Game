@@ -17,7 +17,7 @@ function Game() {
   let winMessage: string = "";
 
   const secretMember: Guess = allMembers.find(
-    (m) => m.name === "Owen Nichols"
+    (m) => m.name === "Fredrick Brown"
   ) ?? {
     name: "Unknown",
     section: "",

@@ -13,8 +13,6 @@ export function makeWinMessage(guesses: ComparisonResult[]) {
       output += "⬜️";
     }
 
-    output += " ";
-
     //check for section similarity
     if (current.sectionMatch === "green") {
       output += "🟩";
@@ -24,8 +22,6 @@ export function makeWinMessage(guesses: ComparisonResult[]) {
       output += "⬜️";
     }
 
-    output += " ";
-
     //check for year match
     if (current.yearMatch === "green") {
       output += "🟩";
@@ -34,8 +30,6 @@ export function makeWinMessage(guesses: ComparisonResult[]) {
     } else {
       output += "⬜️";
     }
-
-    output += " ";
 
     //check for role match
     if (current.roleMatch === "green") {
