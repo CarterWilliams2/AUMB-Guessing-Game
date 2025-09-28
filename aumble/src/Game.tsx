@@ -26,17 +26,6 @@ function Game() {
     auburnID: "",
   };
 
-  // not using backend for now
-  // useEffect(() => {
-  //   fetch("http://localhost:3001/members")
-  //     .then((res) => res.json())
-  //     .then((data) => {
-  //       console.log("Fetched members:", data);
-  //       setMembers(data);
-  //     })
-  //     .catch((err) => console.error("Error fetching members:", err));
-  // }, []);
-
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setGuess(e.target.value);
   };
