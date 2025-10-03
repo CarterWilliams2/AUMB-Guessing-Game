@@ -17,7 +17,7 @@ function Game() {
   let winMessage: string = "";
 
   const secretMember: Guess = allMembers.find(
-    (m) => m.name === "Colter Thomas"
+    (m) => m.name === "Bella Nonales"
   ) ?? {
     name: "Unknown",
     section: "",
@@ -73,7 +73,6 @@ function Game() {
       {lastComparison?.equal ? (
         <>
           <h1>You guessed the daily secret member!</h1>
-          <h2>Go tell him Happy Birthday!</h2>
           <p style={{ whiteSpace: "pre-line" }}>{winMessage}</p>
         </>
       ) : (
