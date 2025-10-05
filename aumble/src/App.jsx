@@ -12,6 +12,7 @@ function App() {
       <h1>AUMBLE</h1>
       <h2>An AUMB Guessing Game</h2>
       <button onClick={() => setShowInstructions(true)}>How to Play</button>
+      <h3>Last Updated: 10/5 12:00pm</h3>
 
       {showInstructions && (
         <div className="modal-overlay" onClick={() => setShowInstructions(false)}>
