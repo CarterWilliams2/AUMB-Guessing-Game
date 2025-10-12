@@ -5,6 +5,7 @@ import { compareGuess } from "./utils/compareGuess";
 import members from "./members.json";
 import useDebounce from "./hooks/useDebounce";
 import { makeWinMessage } from "./utils/makeWinMessage";
+import { getDailyMember } from "./utils/getDailyMember";
 
 function Game() {
   const [guess, setGuess] = useState("");
@@ -16,15 +17,7 @@ function Game() {
   const [error, setError] = useState("");
   let winMessage: string = "";
 
-  const secretMember: Guess = allMembers.find(
-    (m) => m.name === "Ethan Williams"
-  ) ?? {
-    name: "Unknown",
-    section: "",
-    year: "",
-    role: "",
-    auburnID: "",
-  };
+  const secretMember: Guess = getDailyMember(members);
 
   const handleChange = (e: React.ChangeEvent<HTMLInputElement>) => {
     setGuess(e.target.value);
@@ -73,7 +66,6 @@ function Game() {
       {lastComparison?.equal ? (
         <>
           <h1>You guessed the daily secret member!</h1>
-          <h2>Happy birthday lil bro</h2>
           <p style={{ whiteSpace: "pre-line" }}>{winMessage}</p>
         </>
       ) : (
