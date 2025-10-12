@@ -73,7 +73,6 @@ function Game() {
       {lastComparison?.equal ? (
         <>
           <h1>You guessed the daily secret member!</h1>
-          <h2>Happy birthday lil bro</h2>
           <p style={{ whiteSpace: "pre-line" }}>{winMessage}</p>
         </>
       ) : (
