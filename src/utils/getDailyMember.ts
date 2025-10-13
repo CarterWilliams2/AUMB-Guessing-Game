@@ -1,17 +1,26 @@
 import { Guess } from "../types.ts";
 
 export function getDailyMember(members: Guess[]): Guess {
+  const now = new Date();
 
-  const today = new Date();
-  const dateString = today.toISOString().split("T")[0];
+  const options: Intl.DateTimeFormatOptions = {
+    timeZone: "America/Chicago", 
+    year: "numeric",
+    month: "2-digit",
+    day: "2-digit",
+  };
 
-  
+  const parts = new Intl.DateTimeFormat("en-CA", options).formatToParts(now);
+  const year = parts.find(p => p.type === "year")?.value;
+  const month = parts.find(p => p.type === "month")?.value;
+  const day = parts.find(p => p.type === "day")?.value;
+  const dateString = `${year}-${month}-${day}`;
+
   let hash = 0;
   for (let i = 0; i < dateString.length; i++) {
     hash = (hash * 31 + dateString.charCodeAt(i)) % 100000;
   }
 
-  
   const index = hash % members.length;
   return members[index];
 }
