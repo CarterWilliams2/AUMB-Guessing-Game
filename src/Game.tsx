@@ -6,6 +6,7 @@ import members from "./members.json";
 import useDebounce from "./hooks/useDebounce";
 import { makeWinMessage } from "./utils/makeWinMessage";
 import { getDailyMember } from "./utils/getDailyMember";
+import { sections, years, roles } from "./utils/constants";
 
 function Game() {
   const [guess, setGuess] = useState("");
@@ -16,6 +17,17 @@ function Game() {
   const debouncedGuess = useDebounce(guess, 200);
   const [error, setError] = useState("");
   let winMessage: string = "";
+  const [filterSection, setFilterSection] = useState("");
+  const [filterYear, setFilterYear] = useState("");
+  const [filterRole, setFilterRole] = useState("");
+
+  const filteredTableMembers = allMembers.filter((m) => {
+    return (
+      (filterSection === "" || m.section === filterSection) &&
+      (filterYear === "" || m.year === filterYear) &&
+      (filterRole === "" || m.role === filterRole)
+    );
+  });
 
   const secretMember: Guess = getDailyMember(members);
 
@@ -123,6 +135,69 @@ function Game() {
           </tbody>
         </table>
       )}
+
+      <div className="reference-table">
+        <h2>Need Help? Use this table to filter results</h2>
+
+        <div className="filters">
+          <select
+            value={filterSection}
+            onChange={(e) => setFilterSection(e.target.value)}
+          >
+            <option value="">All Sections</option>
+            {sections.map((s) => (
+              <option key={s} value={s}>
+                {s}
+              </option>
+            ))}
+          </select>
+
+          <select
+            value={filterYear}
+            onChange={(e) => setFilterYear(e.target.value)}
+          >
+            <option value="">All Years</option>
+            {years.map((y) => (
+              <option key={y} value={y}>
+                {y}
+              </option>
+            ))}
+          </select>
+
+          <select
+            value={filterRole}
+            onChange={(e) => setFilterRole(e.target.value)}
+          >
+            <option value="">All Roles</option>
+            {roles.map((r) => (
+              <option key={r} value={r}>
+                {r}
+              </option>
+            ))}
+          </select>
+        </div>
+
+        <table>
+          <thead>
+            <tr>
+              <th>Name</th>
+              <th>Section</th>
+              <th>Year</th>
+              <th>Role</th>
+            </tr>
+          </thead>
+          <tbody>
+            {filteredTableMembers.map((m, i) => (
+              <tr key={i}>
+                <td>{m.name}</td>
+                <td>{m.section}</td>
+                <td>{m.year}</td>
+                <td>{m.role}</td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </div>
     </div>
   );
 }

@@ -14,3 +14,38 @@ th, td {
 th {
   background-color: #f2f2f2;
 }
+
+.reference-table {
+  margin-top: 2rem;
+  text-align: center;
+}
+
+.reference-table .filters {
+  display: flex;
+  justify-content: center;
+  gap: 0.5rem;
+  margin-bottom: 1rem;
+}
+
+.reference-table select {
+  padding: 0.4rem 0.6rem;
+  font-size: 1rem;
+}
+
+.reference-table table {
+  margin: 0 auto;
+  border-collapse: collapse;
+  width: 90%;
+  max-width: 700px;
+}
+
+.reference-table th,
+.reference-table td {
+  border: 1px solid #ddd;
+  padding: 0.5rem;
+}
+
+.reference-table th {
+  background-color: #0066cc;
+  color: white;
+}
