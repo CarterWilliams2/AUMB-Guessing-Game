@@ -14,3 +14,29 @@ export const instrumentFamilies: Record<string, string> = {
     flagline: 'Tiger Eyes',
     drummajor: 'Drum Major'
 };
+
+export const sections: string[] = [
+    "Piccolo",
+    "Clarinet",
+    "Alto Saxophone",
+    "Trumpet",
+    "Mellophone",
+    "Trombone",
+    "Baritone",
+    "Tuba",
+    "Battery",
+    "Front Ensemble",
+    "Danceline",
+    "Flagline",
+    "Drum Major"
+];
+
+export const years: string[] = ["1", "2", "3", "4", "5", "6"];
+
+export const roles: string[] = [
+    "Members",
+    "Section Leader",
+    "RAT Leader",
+    "Captain",
+    "Co-Captain"
+];
