@@ -1,5 +1,5 @@
 import { Guess, ComparisonResult } from "../types";
-import { instrumentFamilies } from "./instrumentFamilies";
+import { instrumentFamilies } from "./constants";
 
 export function compareGuess(guess: Guess, answer: Guess) {
     let res: ComparisonResult = {
