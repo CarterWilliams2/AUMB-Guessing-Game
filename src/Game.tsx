@@ -137,7 +137,7 @@ function Game() {
       )}
 
       <div className="reference-table">
-        <h2>Need Help? Use this table to filter results</h2>
+        <h2>No Clue? Filter Members Here!</h2>
 
         <div className="filters">
           <select

@@ -34,7 +34,7 @@ export const sections: string[] = [
 export const years: string[] = ["1", "2", "3", "4", "5", "6"];
 
 export const roles: string[] = [
-    "Members",
+    "Member",
     "Section Leader",
     "RAT Leader",
     "Captain",
