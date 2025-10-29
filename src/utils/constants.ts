@@ -27,6 +27,7 @@ export const sections: string[] = [
     "Battery",
     "Front Ensemble",
     "Danceline",
+    "Majorette",
     "Flagline",
     "Drum Major"
 ];
