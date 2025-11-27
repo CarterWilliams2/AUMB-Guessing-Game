@@ -78,8 +78,8 @@ function Game() {
       {lastComparison?.equal ? (
         <>
           <h1>You guessed the daily secret member!</h1>
-          {secretMember.name == "Sam Thomas" ? (
-            <h2>Happy Birthday Sam!</h2>
+          {secretMember.name == "Ricky Whorms" ? (
+            <h2>Happy Birthday Ricky!</h2>
           ) : (
             <h2>Thank you for playing, have a great day</h2>
           )}

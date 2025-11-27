@@ -16,8 +16,8 @@ export function getDailyMember(members: Guess[]): Guess {
   const day = parts.find(p => p.type === "day")?.value;
   const dateString = `${year}-${month}-${day}`;
 
-  if (dateString == '2025-11-08') {
-    const special = members.find(m => m.name == "Tae Moon");
+  if (dateString == '2025-11-27') {
+    const special = members.find(m => m.name == "Ricky Whorms");
     if (!special) {
       return {
         auburnID: "",
